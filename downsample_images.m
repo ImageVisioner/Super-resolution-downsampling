@@ -2,7 +2,7 @@ function downsample_images(input_folder, output_folder, downsample_factor)
 % input_folder: 输入文件夹
 % output_folder: 输出文件夹
 % downsample_factor: 降采样倍数
-% Email:imagevisioner@bistu.edu.cn
+% Email:imagevisioner@outlook.com
 % 获取输入文件夹中所有图像的文件名
 
 tic
